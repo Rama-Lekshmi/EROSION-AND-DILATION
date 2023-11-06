@@ -1,4 +1,4 @@
-# Implementation-of-Erosion-and-Dilation...
+# EXP-10 -Record-Implementation of Erosion and Dilation
 
 ## Aim:
 
