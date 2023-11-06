@@ -40,8 +40,8 @@ End the program.
 
 ```python
 
-Developed by : Javith farkhan S
-Register No : 212221240017
+Developed by : Rama E. K. Lekshmi
+Register No : 212222240082
 Program to implement Erosion and Dilation using Python and OpenCV.
 
 ```
@@ -103,17 +103,18 @@ plt.axis('off')
 
 ### Display the input text Image:
 
-![Di10 1](https://github.com/Javith-farkhan/Implementation-of-Erosion-and-Dilation/assets/94296805/648cfcec-9cd1-49cb-be0d-77ee716518a8)
+![1](https://github.com/Rama-Lekshmi/EROSION-AND-DILATION/assets/118541549/e107e164-597f-4e4d-b468-895ab69ad107)
 
 
 ### Display the Eroded text Image:
 
-![Di10 2](https://github.com/Javith-farkhan/Implementation-of-Erosion-and-Dilation/assets/94296805/493909be-43c3-45dc-940e-d1e0b5203933)
+
+![2](https://github.com/Rama-Lekshmi/EROSION-AND-DILATION/assets/118541549/26c620c5-d67f-455a-af16-03136da66833)
 
 
 ### Display the Dilated text Image:
 
-![Di10 3](https://github.com/Javith-farkhan/Implementation-of-Erosion-and-Dilation/assets/94296805/6d095d1a-e8b6-48ce-b8d4-49e6d562e09a)
+![3](https://github.com/Rama-Lekshmi/EROSION-AND-DILATION/assets/118541549/55fc336f-6c9d-4f32-bc99-71b88b1c155b)
 
 
 ## Result:
